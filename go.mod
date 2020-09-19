@@ -1,1 +1,1 @@
-module "gohomework13"
+module github.com/lozovoya/gohomework13
